@@ -2,8 +2,8 @@
 
 | Image 1 | Image 2 | Image 3 |
 |---------|---------|---------|
-| ![Image 1](https://github.com/MazidF/Bachelor-s-project/blob/master/project/ScreenShotsAndRecordings/Screenshot from 2025-01-31 19-44-55.png) | ![Image 2]([path/to/image2.jpg](https://github.com/MazidF/Bachelor-s-project/blob/master/project/ScreenShotsAndRecordings/Screenshot from 2025-01-31 19-45-09.png)) | ![Image 3](https://github.com/MazidF/Bachelor-s-project/blob/master/project/ScreenShotsAndRecordings/Screenshot from 2025-01-31 19-45-45.png) |
+| ![Image 1](project/ScreenShotsAndRecordings/Screenshot%20from%202025-01-31%2019-44-55.png) | ![Image 2](project/ScreenShotsAndRecordings/Screenshot%20from%202025-01-31%2019-45-09.png) | ![Image 3](project/ScreenShotsAndRecordings/Screenshot%20from%202025-01-31%2019-45-45.png) |
 
 | Image 4 | Image 5 | Video |
 |---------|---------|-------|
-| ![Image 4]([path/to/image4.jpg](https://github.com/MazidF/Bachelor-s-project/blob/master/project/ScreenShotsAndRecordings/Screenshot from 2025-01-31 19-46-13.png)) | ![Image 5](https://github.com/MazidF/Bachelor-s-project/blob/master/project/ScreenShotsAndRecordings/Screenshot from 2025-01-31 19-46-20.png) | [![Video Thumbnail](path/to/video-thumbnail.jpg)](https://github.com/MazidF/Bachelor-s-project/blob/master/project/ScreenShotsAndRecordings/Screen_recording_20250131_194741.webm) |
+| ![Image 4](project/ScreenShotsAndRecordings/Screenshot%20from%202025-01-31%2019-46-13.png) | ![Image 5](project/ScreenShotsAndRecordings/Screenshot%20from%202025-01-31%2019-46-20.png) | [![Video Thumbnail](project/ScreenShotsAndRecordings/Screenshot%20from%202025-01-31%2019-44-55.png)](project/ScreenShotsAndRecordings/Screen%20recording%2020250131%20194741.webm) |
